@@ -1,0 +1,26 @@
+/* Estilos Gerais */
+body, p, h1, ul, li {
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	list-style: none;
+}
+
+body {
+	font-family: Georgia, 'Times New Roman', serif;
+	color: #252525;
+	background: #e7e4d8;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+img {
+	display: block;
+	max-width: 100%;
+}
+
+/* Header */
